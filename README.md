@@ -4,7 +4,7 @@
 
 Using the glassmorphism package to test new idea for UI
 
-<img src="assets/images/glass_morphism_pic.png" alt="home-screen" width="100%" height="100%" />
+<img src="assets/images/glass_morphism_pic.png" alt="home-screen" width="60%" height="60%" />
 
 ---
 ## Author
